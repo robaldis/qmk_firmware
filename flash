@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+make handwired/dactyl_manuform/5x6_5:robaldis:avrdude
